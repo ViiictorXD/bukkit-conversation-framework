@@ -1,6 +1,8 @@
 # bukkit-conversation-framework
 A simple conversation with others features for Bukkit
 
+You can replace `ConversationStepType.TYPE_INPUT` to another type of conversation, [click here](https://github.com/ViiictorXD/bukkit-conversation-framework/blob/main/src/main/java/io/github/viiictorxd/minecraft/framework/api/conversation/step/ConversationStepType.java) to see all types.
+
 # Sample
 ```java
 public class ConversationExample extends Conversation {
