@@ -1,0 +1,7 @@
+[versions]
+spigot = "1.8.8-R0.1-SNAPSHOT"
+lombok = "1.18.22"
+
+[libraries]
+spigot = { module = "org.spigotmc:spigot", version.ref = "spigot" }
+lombok = { module = "org.projectlombok:lombok", version.ref = "lombok" }
